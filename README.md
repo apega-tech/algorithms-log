@@ -1,7 +1,9 @@
 # Algorithms & Data Structures Log
 
+🔗 **Live Demo:** [algorithms-log demo](https://apega-tech.github.io/algorithms-log/) — runs the actual Python solutions in your browser via Pyodide
+
 A running collection of classic algorithm and data structure problems,
-solved in both Python and Java, with short write-ups on approach and
+solved in both Python and Java, with short write-ups on the approach and
 complexity. Built to demonstrate core CS fundamentals — the kind of
 problems that come up in technical interviews and in coursework (Data
 Structures & Algorithms, OOP).
@@ -34,9 +36,6 @@ Compile and run, e.g.:
 javac BinarySearchTree.java
 java BinarySearchTree
 ```
-> Note: the Java files were written and reviewed carefully but not
-> compiled in the environment they were generated in (no JDK available).
-> Run `javac *.java` locally before pushing to confirm they build clean.
 
 ## Why this repo
 This is meant to be an ongoing log, not a one-time submission — I'll add
